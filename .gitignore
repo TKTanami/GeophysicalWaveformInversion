@@ -4,3 +4,4 @@
 *.csv
 waveform-inversion/
 *.pth
+*.pt
